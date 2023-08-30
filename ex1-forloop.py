@@ -23,3 +23,11 @@ print("Added this line from User-2 account")
 B = 700
 C = 900
 
+print("Added this line from fiaco User-2 account")
+f = 100
+print("Added this line from fiaco User-2 account")
+g = 700
+
+print("Added this line from fiaco User-2 account")
+h = 500
+
